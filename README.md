@@ -19,7 +19,7 @@
 ### 분석 예측 결과 및 Flask 코드 'app.py' 실행
 ```bash
 1. https://huggingface.co/skt/kobert-base-v1/tree/main 링크 안에 있는 7개의 파일 다운
-2. 'KoBERT-master/kobert-base-v1' 에 저장
+2. 'KoBERT-master/kobert-base-v1' 위치에 저장
 ```
 
 ```bash
