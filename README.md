@@ -11,8 +11,10 @@
 
 ### KoBERT 모델 'model.pt' 다운로드
 ```bash
-1. https://colab.research.google.com/drive/1AExblxZFg6XVobRefePtkF3zxK2oYmjF?usp=sharing 전체 코드 실행
-2. 'model.pt'를 'KoBERT-master' 폴더(전체 파일과 같은 디렉토리)에 저장
+1. https://colab.research.google.com/drive/1AExblxZFg6XVobRefePtkF3zxK2oYmjF?usp=sharing 코랩에
+   '한국어_단발성_데이터셋.xslx' 파일 업로드
+2. 전체 코드 실행
+3. 'model.pt'를 'KoBERT-master' 폴더(전체 파일과 같은 디렉토리)에 저장
 ```
 <br/>
 
